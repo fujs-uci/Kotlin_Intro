@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your Age in Perspective</string>
+    <string name="return_mintues">in Minutes</string>
+    <string name="return_days">in Days</string>
+    <string name="unit_p_minutes">MINUTES</string>
+    <string name="unit_s_minute">MINUTE</string>
+    <string name="unit_p_days">DAYS</string>
+    <string name="unit_s_day">DAY</string>
+</resources>

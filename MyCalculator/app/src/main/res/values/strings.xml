@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="btnEqualRes">=</string>
+    <string name="btnAdditionRes">+</string>
+    <string name="btnClearRes">C</string>
+    <string name="btnZeroRes">0</string>
+    <string name="btnDecimalRes">.</string>
+    <string name="btnSubtractRes">-</string>
+    <string name="btnThreeRes">3</string>
+    <string name="btnTwoRes">2</string>
+    <string name="btnOneRes">1</string>
+    <string name="btnMultiplyRes">x</string>
+    <string name="btnSixRes">6</string>
+    <string name="btnFiveRes">5</string>
+    <string name="btnFourRes">4</string>
+    <string name="btnDivideRes">÷</string>
+    <string name="btnNineRes">9</string>
+    <string name="btnEightRes">8</string>
+    <string name="btnSevenRes">7</string>
+</resources>
